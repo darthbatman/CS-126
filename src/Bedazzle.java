@@ -3,7 +3,7 @@
 // CS 126 Fall 2017
 // Lecture 1
 
-public class bedazzle {
+public class Bedazzle {
 
     public static String bedazzle(String input){
 

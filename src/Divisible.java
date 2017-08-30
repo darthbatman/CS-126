@@ -1,9 +1,9 @@
 // Rishi Masand
 // University of Illinois at Urbana-Champaign
 // CS 126 Fall 2017
-// Programming Practice 1
+// Programming Practice 1 #1
 
-public class divisible {
+public class Divisible {
 
     public static void main(String[] args) {
 
