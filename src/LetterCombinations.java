@@ -81,6 +81,8 @@ public class LetterCombinations {
 
             }
 
+            increment(index - 1);
+
         }
         else {
 
@@ -96,7 +98,7 @@ public class LetterCombinations {
 
             combinationString += lettersRecursive[letterIndicesRecursive[letterCount]];
 
-            return combinator(combinationString, letterCount++);
+            return combinator(combinationString, letterCount + 1);
 
         }
         else {
@@ -119,7 +121,7 @@ public class LetterCombinations {
 
             increment(5);
 
-            stringBuilder(stringCount++);
+            stringBuilder(stringCount + 1);
 
         }
 
@@ -133,7 +135,7 @@ public class LetterCombinations {
 
     public static void main(String[] args) {
 
-        //withLoops();
+        withLoops();
 
         withRecursion();
 
