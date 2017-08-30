@@ -48,13 +48,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Palindrome.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#0#647#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LetterCombinations.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LetterCombinations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#2509#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,6 +96,7 @@
         <option value="$PROJECT_DIR$/src/bedazzle.java" />
         <option value="$PROJECT_DIR$/src/LeapYear.java" />
         <option value="$PROJECT_DIR$/src/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/LetterCombinations.java" />
       </list>
     </option>
   </component>
@@ -155,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
+  <component name="RunManager" selected="Application.LetterCombinations">
     <configuration name="Bedazzle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Bedazzle" />
@@ -187,6 +200,20 @@
     <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="LeapYear" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CS 126" />
+      <envs />
+    </configuration>
+    <configuration name="LetterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="LetterCombinations" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -293,34 +320,20 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="divisible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="divisible" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CS 126" />
-      <envs />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.divisible" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Bedazzle" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Divisible" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LeapYear" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Palindrome" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Bedazzle" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Divisible" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LeapYear" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Palindrome" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LetterCombinations" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Palindrome" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LeapYear" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Divisible" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Bedazzle" />
-        <item index="4" class="java.lang.String" itemvalue="Application.divisible" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LetterCombinations" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Palindrome" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LeapYear" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Divisible" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Bedazzle" />
       </list>
     </recent_temporary>
   </component>
@@ -335,12 +348,12 @@
       <option name="presentableId" value="Default" />
       <updated>1504035588858</updated>
       <workItem from="1504035591026" duration="775000" />
-      <workItem from="1504109035643" duration="1323000" />
+      <workItem from="1504109035643" duration="3763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2098000" />
+    <option name="totallyTimeSpent" value="4538000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -428,10 +441,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#0#647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LetterCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2509#0" expanded="true" />
           </folding>
         </state>
       </provider>
