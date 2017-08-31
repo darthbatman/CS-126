@@ -7,7 +7,7 @@ public class Bedazzle {
 
     public static String bedazzle(String input){
 
-        String b = "";
+        String b = "*";
 
         for (int i = 0; i < input.length(); i++){
 
