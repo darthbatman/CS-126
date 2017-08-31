@@ -18,11 +18,8 @@ public class Bedazzle {
                 b += " ";
 
             }
-            else {
 
-                b += "*";
-
-            }
+            b += "*";
 
         }
 
