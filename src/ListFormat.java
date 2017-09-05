@@ -1,3 +1,8 @@
+// Rishi Masand
+// University of Illinois at Urbana-Champaign
+// CS 126 Fall 2017
+// Lecture 3
+
 public class ListFormat {
 
     public static String toString(String[] array) {
