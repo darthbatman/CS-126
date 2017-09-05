@@ -52,13 +52,17 @@ public class TicTacToe {
 
         for (int i = 0; i < 8; i++) {
 
-            if (xSequence.indexOf(Integer.toString(winningSequences[i][0])) != -1 && xSequence.indexOf(Integer.toString(winningSequences[i][1])) != -1 && xSequence.indexOf(Integer.toString(winningSequences[i][2])) != -1){
+            if (xSequence.indexOf(Integer.toString(winningSequences[i][0])) != -1
+                    && xSequence.indexOf(Integer.toString(winningSequences[i][1])) != -1
+                        && xSequence.indexOf(Integer.toString(winningSequences[i][2])) != -1){
 
                 xWins = true;
 
             }
 
-            if (oSequence.indexOf(Integer.toString(winningSequences[i][0])) != -1 && oSequence.indexOf(Integer.toString(winningSequences[i][1])) != -1 && oSequence.indexOf(Integer.toString(winningSequences[i][2])) != -1){
+            if (oSequence.indexOf(Integer.toString(winningSequences[i][0])) != -1
+                    && oSequence.indexOf(Integer.toString(winningSequences[i][1])) != -1
+                        && oSequence.indexOf(Integer.toString(winningSequences[i][2])) != -1){
 
                 oWins = true;
 
